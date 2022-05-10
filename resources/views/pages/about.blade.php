@@ -11,7 +11,7 @@
         <p>Built with Laravel 8 &hearts; by Yves and Humbert</p>
         <p><a href="/">Revenir a la page d'acceuil</a></p>
         <footer>
-            <p>&copy; Copyright {{date('Y')}} &middot; <a href="/about-us">About-us</a></p>
+            <p>&copy;Copyright {{date('Y')}}</p>
         </footer>
        
     
